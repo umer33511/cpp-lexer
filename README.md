@@ -16,6 +16,6 @@ A Python tool that tokenizes C++ code into keywords, identifiers, operators, and
 - GUI (Tkinter) and CLI support
 
 ## Test Files
-- Check tests/ for examples (test1.cpp, test2.cpp, test3.cpp).
+- Check Test Files/ for examples (test1.cpp, test2.cpp, test3.cpp).
 
 ## License: MIT
